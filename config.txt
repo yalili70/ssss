@@ -1,0 +1,2 @@
+token: "NDY3NDM2NDgxOTMwMDY3OTcx.DrOnVA.c4tfThkcSKYum0yJRLdfdOkrxOE"
+prefix: "g!"
